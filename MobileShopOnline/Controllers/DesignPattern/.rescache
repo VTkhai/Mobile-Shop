@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":28234,"count":31,"data":{"Builder":[1,1009],"Command":[1,3811],"Composite":[1,1744],"Facade":[1,4567],"Factory_Method":[1,969],"Flyweight":[1,3150],"Iterator":[1,1206],"Observer":[1,3255],"Singleton":[1,2736],"Strategy":[1,4253],"Template_Method":[1,1534]}}

@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":4253,"count":7,"data":{"DecreaseWithPriceStrategy.cs":[0,613],"From4To8MilStrategy.cs":[0,692],"From8To12MilStrategy.cs":[0,690],"IncreaseWithPriceStrategy.cs":[0,603],"IPriceRangeStrategy.cs":[0,325],"Over12MilStrategy.cs":[0,665],"Under4MilStrategy.cs":[0,665]}}
